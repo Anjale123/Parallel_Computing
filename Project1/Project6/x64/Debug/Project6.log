@@ -1,0 +1,6 @@
+﻿  first.cpp
+C:\Users\DELL\Desktop\Parallel_Computer\Project6\Project6\first.cpp(11,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\DELL\Desktop\Parallel_Computer\Project6\Project6\first.cpp(11,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\DELL\Desktop\Parallel_Computer\Project6\Project6\first.cpp(12,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\DELL\Desktop\Parallel_Computer\Project6\Project6\first.cpp(12,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  Project6.vcxproj -> C:\Users\DELL\Desktop\Parallel_Computer\Project6\x64\Debug\Project6.exe
